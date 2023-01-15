@@ -1,0 +1,1 @@
+hello! this is the introduction file to a series of code submissions for the sponsor spot application
